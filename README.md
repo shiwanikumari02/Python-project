@@ -1,3 +1,3 @@
 # quiz_application
 
-how to execute - type python quizapplication.py in terminal and press enter.
+how to execute - type python ShiwaniKumari_ProjectQuiz3.py in terminal and press enter.
